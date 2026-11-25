@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+python-docx
+pypdf
+reportlab
+python-dotenv
+ollama
